@@ -97,79 +97,88 @@ AWS • Microsoft Azure
 <td width="25%" valign="top">
 
 <b>📊 RiskLens</b><br>
-<i>Financial Risk Analytics Platform</i>
+<i>Financial Risk Analytics<br>Platform</i>
+
+<ul>
+<li>Credit Risk Prediction</li>
+<li>Random Forest</li>
+<li>SHAP Explainability</li>
+<li>Executive KPI Dashboards</li>
+</ul>
 
 <br>
 
-- Credit Risk Prediction
-- Random Forest
-- SHAP Explainability
-- Executive KPI Dashboards
-
-<br><br>
-
+<p align="center">
 <a href="https://github.com/Insight-Q/RiskLens-Financial_Risk_Analytics_Platform">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
 
 <td width="25%" valign="top">
 
 <b>🚖 Urban Mobility Analytics</b><br>
-<i>Business Intelligence Solution</i>
+<i>Business Intelligence<br>Solution</i>
+
+<ul>
+<li>PostgreSQL</li>
+<li>Power BI</li>
+<li>Advanced SQL</li>
+<li>Revenue Analytics</li>
+</ul>
 
 <br>
 
-- PostgreSQL
-- Power BI
-- Advanced SQL
-- Revenue Analytics
-
-<br><br>
-
+<p align="center">
 <a href="https://github.com/deependerxii/urban-mobility-analysis">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
 
 <td width="25%" valign="top">
 
 <b>💳 Expensio</b><br>
-<i>AI Expense Management</i>
+<i>AI Expense<br>Management</i>
+
+<ul>
+<li>Gemini OCR</li>
+<li>Expense Analytics</li>
+<li>Interactive Dashboards</li>
+<li>&nbsp;</li>
+</ul>
 
 <br>
 
-- Gemini OCR
-- Expense Analytics
-- Interactive Dashboards
-
-<br><br><br><br>
-
+<p align="center">
 <a href="https://github.com/deependerxii/expensio-ai-finance-system">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
 
 <td width="25%" valign="top">
 
 <b>✈ Flight Delay Analytics</b><br>
-<i>Large Scale Aviation Analytics</i>
+<i>Large Scale Aviation<br>Analytics</i>
+
+<ul>
+<li>5.8M+ Records</li>
+<li>SQL</li>
+<li>Python</li>
+<li>Power BI</li>
+</ul>
 
 <br>
 
-- 5.8M+ Records
-- SQL
-- Python
-- Power BI
-
-<br><br>
-
+<p align="center">
 <a href="https://github.com/deependerxii/Flight-Delay-Cancellation-Analytics-System">
 <img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+</p>
 
 </td>
 
