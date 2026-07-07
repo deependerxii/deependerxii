@@ -91,25 +91,75 @@ AWS • Microsoft Azure
 ---
 # 🚀 Featured Projects
 
-<p align="center">
+<table>
+<tr>
+
+<td width="25%" valign="top">
+
+<b>📊 RiskLens</b><br>
+<i>Financial Risk Analytics Platform</i>
+
+- Credit Risk Prediction
+- Random Forest
+- SHAP Explainability
+- Executive KPI Dashboards
 
 <a href="https://github.com/Insight-Q/RiskLens-Financial_Risk_Analytics_Platform">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Insight-Q&repo=RiskLens-Financial_Risk_Analytics_Platform&theme=transparent&hide_border=true"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+<td width="25%" valign="top">
+
+<b>🚖 Urban Mobility Analytics</b><br>
+<i>Business Intelligence Solution</i>
+
+- PostgreSQL
+- Power BI
+- Advanced SQL
+- Revenue Analytics
 
 <a href="https://github.com/deependerxii/urban-mobility-analysis">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deependerxii&repo=urban-mobility-analysis&theme=transparent&hide_border=true"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+<td width="25%" valign="top">
+
+<b>💳 Expensio</b><br>
+<i>AI Expense Management</i>
+
+- Gemini OCR
+- Expense Analytics
+- Interactive Dashboards
 
 <a href="https://github.com/deependerxii/expensio-ai-finance-system">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deependerxii&repo=expensio-ai-finance-system&theme=transparent&hide_border=true"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</td>
+
+<td width="25%" valign="top">
+
+<b>✈ Flight Delay Analytics</b><br>
+<i>Large Scale Aviation Analytics</i>
+
+- 5.8M+ Records
+- SQL
+- Python
+- Power BI
 
 <a href="https://github.com/deependerxii/Flight-Delay-Cancellation-Analytics-System">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deependerxii&repo=Flight-Delay-Cancellation-Analytics-System&theme=transparent&hide_border=true"/>
+<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-</p>
+</td>
+
+</tr>
+</table>
+
 ---
 
 # 📚 Core Expertise
