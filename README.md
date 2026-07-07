@@ -89,86 +89,27 @@ Git • GitHub • Jupyter Notebook • Google Colab • DBeaver
 AWS • Microsoft Azure
 
 ---
-
 # 🚀 Featured Projects
 
-<table>
-<tr>
-
-<td width="50%">
-
-## 📊 RiskLens
-
-**Financial Risk Analytics Platform**
-
-- Credit Risk Prediction
-- Random Forest
-- SHAP Explainability
-- Executive KPI Dashboards
+<p align="center">
 
 <a href="https://github.com/Insight-Q/RiskLens-Financial_Risk_Analytics_Platform">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Insight-Q&repo=RiskLens-Financial_Risk_Analytics_Platform&theme=transparent&hide_border=true"/>
 </a>
-
-</td>
-
-<td width="50%">
-
-## 🚖 Urban Mobility Analytics
-
-**Business Intelligence Solution**
-
-- PostgreSQL
-- Power BI
-- Advanced SQL
-- Revenue Analytics
 
 <a href="https://github.com/deependerxii/urban-mobility-analysis">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deependerxii&repo=urban-mobility-analysis&theme=transparent&hide_border=true"/>
 </a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-## 💳 Expensio
-
-**AI Expense Management**
-
-- Gemini OCR
-- Expense Analytics
-- Interactive Dashboards
 
 <a href="https://github.com/deependerxii/expensio-ai-finance-system">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deependerxii&repo=expensio-ai-finance-system&theme=transparent&hide_border=true"/>
 </a>
-
-</td>
-
-<td>
-
-## ✈ Flight Delay Analytics
-
-**Large Scale Aviation Analytics**
-
-- 5.8M+ Records
-- SQL
-- Python
-- Power BI
 
 <a href="https://github.com/deependerxii/Flight-Delay-Cancellation-Analytics-System">
-<img src="https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=deependerxii&repo=Flight-Delay-Cancellation-Analytics-System&theme=transparent&hide_border=true"/>
 </a>
 
-</td>
-
-</tr>
-
-</table>
+</p>
 ---
 
 # 📚 Core Expertise
