@@ -170,29 +170,6 @@ AWS • Microsoft Azure
 
 </table>
 ---
-# 📈 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deependerxii&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deependerxii&layout=compact&hide_border=true&theme=transparent"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=deependerxii&hide_border=true&theme=transparent"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=deependerxii&theme=github-compact&hide_border=true"/>
-
-</div>
-
----
 
 # 📚 Core Expertise
 
@@ -234,27 +211,6 @@ AWS • Microsoft Azure
 </tr>
 
 </table>
-
----
-
-# 📜 Certifications
-
-✅ Google Analytics (GA4)
-
-✅ Oracle Database@Azure Deep-Dive Learning Path
-
-✅ Kaggle Data Visualization
-
-✅ Internshala Web Development with AI
-
----
-
-# 🌱 Currently Learning
-
-- Azure Databricks
-- PySpark
-- Apache Airflow
-- Data Engineering Concepts
 
 ---
 
