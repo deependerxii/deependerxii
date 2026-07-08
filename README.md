@@ -155,7 +155,7 @@ AWS • Microsoft Azure
 
 </td>
 
-<td width="28%" valign="top">
+<td width="30%" valign="top">
 
 <b>✈ Flight Delay Analytics</b><br>
 <strong>Large Scale Aviation Analytics</strong>
