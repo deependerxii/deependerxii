@@ -155,10 +155,10 @@ AWS • Microsoft Azure
 
 </td>
 
-<td width="30%" valign="top">
+<td width="21%" valign="top">
 
 <b>✈ Flight Delay Analytics</b><br>
-<strong>Large Scale Aviation Analytics</strong>
+<strong>Large&nbsp;Scale&nbsp;Aviation&nbsp;Analytics</strong>
 
 <ul>
 <li>5.8M+ Records</li>
@@ -178,7 +178,8 @@ AWS • Microsoft Azure
 </tr>
 </table>
 
----# 📚 Core Expertise
+---
+# 📚 Core Expertise
 
 <table>
 
