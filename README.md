@@ -92,9 +92,10 @@ AWS • Microsoft Azure
 # 🚀 Featured Projects
 
 <table>
+  <table width="100%">
 <tr>
 
-<td width="25%" valign="top">
+<td width="28%" valign="top">
 
 <b>📊 RiskLens</b><br>
 <strong>Financial Risk Analytics Platform</strong>
@@ -114,7 +115,7 @@ AWS • Microsoft Azure
 
 </td>
 
-<td width="25%" valign="top">
+<td width="26%" valign="top">
 
 <b>🚖 Urban Mobility Analytics</b><br>
 <strong>Business Intelligence Solution</strong>
@@ -154,7 +155,7 @@ AWS • Microsoft Azure
 
 </td>
 
-<td width="25%" valign="top">
+<td width="28%" valign="top">
 
 <b>✈ Flight Delay Analytics</b><br>
 <strong>Large Scale Aviation Analytics</strong>
