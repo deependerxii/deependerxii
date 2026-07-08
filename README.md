@@ -97,7 +97,7 @@ AWS • Microsoft Azure
 <td width="25%" valign="top">
 
 <b>📊 RiskLens</b><br>
-<b>Financial Risk Analytics Platform</b>
+<strong>Financial Risk Analytics Platform</strong>
 
 <ul>
 <li>Credit Risk Prediction</li>
@@ -117,7 +117,7 @@ AWS • Microsoft Azure
 <td width="25%" valign="top">
 
 <b>🚖 Urban Mobility Analytics</b><br>
-<b>Business Intelligence Solution</b>
+<strong>Business Intelligence Solution</strong>
 
 <ul>
 <li>PostgreSQL</li>
@@ -137,7 +137,7 @@ AWS • Microsoft Azure
 <td width="25%" valign="top">
 
 <b>💳 Expensio</b><br>
-<b>AI Expense Management</b>
+<strong>AI Expense Management</strong>
 
 <ul>
 <li>Gemini OCR</li>
@@ -157,7 +157,7 @@ AWS • Microsoft Azure
 <td width="25%" valign="top">
 
 <b>✈ Flight Delay Analytics</b><br>
-<b>Large Scale Aviation Analytics</b>
+<strong>Large Scale Aviation Analytics</strong>
 
 <ul>
 <li>5.8M+ Records</li>
