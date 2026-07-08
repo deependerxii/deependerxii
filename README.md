@@ -97,7 +97,7 @@ AWS • Microsoft Azure
 <td width="25%" valign="top">
 
 <b>📊 RiskLens</b><br>
-<i>Financial Risk Analytics<br>Platform</i>
+<b>Financial Risk Analytics Platform</b>
 
 <ul>
 <li>Credit Risk Prediction</li>
@@ -105,8 +105,6 @@ AWS • Microsoft Azure
 <li>SHAP Explainability</li>
 <li>Executive KPI Dashboards</li>
 </ul>
-
-<br>
 
 <p align="center">
 <a href="https://github.com/Insight-Q/RiskLens-Financial_Risk_Analytics_Platform">
@@ -119,7 +117,7 @@ AWS • Microsoft Azure
 <td width="25%" valign="top">
 
 <b>🚖 Urban Mobility Analytics</b><br>
-<i>Business Intelligence<br>Solution</i>
+<b>Business Intelligence Solution</b>
 
 <ul>
 <li>PostgreSQL</li>
@@ -127,8 +125,6 @@ AWS • Microsoft Azure
 <li>Advanced SQL</li>
 <li>Revenue Analytics</li>
 </ul>
-
-<br>
 
 <p align="center">
 <a href="https://github.com/deependerxii/urban-mobility-analysis">
@@ -141,7 +137,7 @@ AWS • Microsoft Azure
 <td width="25%" valign="top">
 
 <b>💳 Expensio</b><br>
-<i>AI Expense<br>Management</i>
+<b>AI Expense Management</b>
 
 <ul>
 <li>Gemini OCR</li>
@@ -149,8 +145,6 @@ AWS • Microsoft Azure
 <li>Interactive Dashboards</li>
 <li>&nbsp;</li>
 </ul>
-
-<br>
 
 <p align="center">
 <a href="https://github.com/deependerxii/expensio-ai-finance-system">
@@ -163,7 +157,7 @@ AWS • Microsoft Azure
 <td width="25%" valign="top">
 
 <b>✈ Flight Delay Analytics</b><br>
-<i>Large Scale Aviation<br>Analytics</i>
+<b>Large Scale Aviation Analytics</b>
 
 <ul>
 <li>5.8M+ Records</li>
@@ -171,8 +165,6 @@ AWS • Microsoft Azure
 <li>Python</li>
 <li>Power BI</li>
 </ul>
-
-<br>
 
 <p align="center">
 <a href="https://github.com/deependerxii/Flight-Delay-Cancellation-Analytics-System">
@@ -185,8 +177,7 @@ AWS • Microsoft Azure
 </tr>
 </table>
 
----
-# 📚 Core Expertise
+---# 📚 Core Expertise
 
 <table>
 
