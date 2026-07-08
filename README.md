@@ -78,15 +78,31 @@ Transforming complex data into actionable business insights through analytics, v
 
 ### Python Libraries
 
-Pandas • NumPy • Scikit-Learn • Matplotlib • Seaborn • Plotly • Statsmodels
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white"/>
+<img src="https://img.shields.io/badge/Statsmodels-2E8B57?style=for-the-badge"/>
+</p>
 
 ### Tools
 
-Git • GitHub • Jupyter Notebook • Google Colab • DBeaver
+<p>
+<img src="https://skillicons.dev/icons?i=git,github"/>
+<img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge"/>
+</p>
 
 ### Cloud
 
-AWS • Microsoft Azure
+<p>
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+</p>
 
 ---
 # 🚀 Featured Projects
