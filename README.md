@@ -158,7 +158,7 @@ AWS • Microsoft Azure
 <td width="21%" valign="top">
 
 <b>✈ Flight Delay Analytics</b><br>
-<strong>Large&nbsp;Scale&nbsp;Aviation&nbsp;Analytics</strong>
+<strong>Large Scale Aviation<br>Analytics</strong>
 
 <ul>
 <li>5.8M+ Records</li>
